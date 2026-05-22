@@ -3,6 +3,8 @@
 For the full Aave AIP experience, go to the [AIPs website](https://aave.github.io/aip/)
 ---
 
+<!-- codex harmless workflow probe -->
+
 ## Contributing
 
 If you plan to add a new *Aave Improvement Proposal (AIP)* follow this guide:
